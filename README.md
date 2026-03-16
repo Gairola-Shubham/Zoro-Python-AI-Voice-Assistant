@@ -276,19 +276,4 @@ This project was built to:
 * Build a **voice-controlled AI assistant**
 * Integrate **local AI models with Python**
 
----
 
-# 👨‍💻 Author
-
-**Shubham Gairola**
-
-Learning AI and building projects step by step 🚀
-
-GitHub:
-https://github.com/
-
----
-
-# ⭐ Support
-
-If you found this project helpful, consider **starring ⭐ the repository**.

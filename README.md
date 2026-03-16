@@ -155,7 +155,7 @@ This allows Zoro to behave more like a **true personal AI assistant**.
 zoro-ai-assistant
 │
 ├── main.py              # Main assistant logic
-├── client.py            # AI interaction handler
+├── client.py            # AI interaction handler [responses for paid api only]
 ├── musicLibrary.py      # Song database
 │
 ├── .env                 # Environment variables (API keys)
